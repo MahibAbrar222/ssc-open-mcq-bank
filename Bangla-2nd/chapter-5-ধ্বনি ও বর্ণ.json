@@ -1,0 +1,14 @@
+[
+    {
+        "question_number": 1,
+        "question": "\u09ac\u09be\u0982\u09b2\u09be \u09ad\u09be\u09b7\u09be\u09af\u09bc \u09ae\u09cc\u09b2\u09bf\u0995 \u09b8\u09cd\u09ac\u09b0\u09a7\u09cd\u09ac\u09a8\u09bf \u0995\u09af\u09bc\u099f\u09bf?",
+        "option_a": "\u09ed\u099f\u09bf",
+        "option_b": "\u09e7\u09e7\u099f\u09bf",
+        "option_c": "\u09e9\u09e6\u099f\u09bf",
+        "option_d": "\u09e9\u09ed\u099f\u09bf",
+        "correct_option": "A",
+        "question_source": "Dhaka Board '25",
+        "question_difficulty": "Easy",
+        "explanation": "বাংলা ভাষায় উচ্চারণের দিক থেকে মোট ৭টি মৌলিক স্বরধ্বনি রয়েছে।"
+    }
+]
