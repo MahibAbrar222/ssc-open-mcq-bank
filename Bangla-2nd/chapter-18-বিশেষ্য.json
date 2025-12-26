@@ -22,6 +22,17 @@
         "question_source": "Dinajpur Board '25",
         "question_difficulty": "Easy",
         "explanation": "জাতি-বিশেষ্যকে সাধারণ-বিশেষ্য ও বলা হয়।"
+    },
+    {
+        "question_number": 3,
+        "question": "'আনন্দ' কোন প্রকার বিশেষ্যের উদাহরণ?",
+        "option_a": "গুণ-বিশেষ্য",
+        "option_b": "ক্রিয়া-বিশেষ্য",
+        "option_c": "সমষ্টি-বিশেষ্য",
+        "option_d": "নাম-বিশেষ্য",
+        "correct_option": "A",
+        "question_source": "Rajshahi Board '25",
+        "question_difficulty": "Easy",
+        "explanation": "‘আনন্দ’ কোনো ব্যক্তি বা বস্তুর নাম নয়, এটি একটি গুণ বা মানসিক অবস্থা প্রকাশ করে। তাই ‘আনন্দ’ গুণ-বিশেষ্যের উদাহরণ।"
     }
-
 ]
